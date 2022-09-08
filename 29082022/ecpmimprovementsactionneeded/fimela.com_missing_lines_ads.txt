@@ -1,0 +1,5 @@
+# START - ads.txt MGID - Dinara - 29082022
+mgid.com, 408156, DIRECT, d4c29acad76ce94f
+indexexchange.com, 194161, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161673, RESELLER, 5d62403b186f2ace
+# END - ads.txt MGID - Dinara - 29082022

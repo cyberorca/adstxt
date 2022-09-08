@@ -1,0 +1,79 @@
+# START - ads.txt streamlyn - Dinara - 22082022
+streamlyn.com, bsrvptr10151, DIRECT
+google.com, pub-1714061154748628, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161939, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161944, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24636, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24634, RESELLER, 0bfd66d529a55807
+appnexus.com, 12065, RESELLER, f5ab79cb980f11d1
+e-planning.net, bae4c0d7fd84057c, RESELLER, c1ba615865ed87b2
+openx.com, 557740596, RESELLER, 6a698e2ec38604c6
+openx.com, 540259865, RESELLER, 6a698e2ec38604c6
+openx.com, 537143737, RESELLER, 6a698e2ec38604c6
+openx.com, 540423120, RESELLER, 6a698e2ec38604c6
+openx.com, 540886590, RESELLER, 6a698e2ec38604c6
+openx.com, 537143708, RESELLER, 6a698e2ec38604c6
+openx.com, 540529433, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 4038, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4038-ob, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+sovrn.com, 402977, RESELLER, fafdf38b16bf6b2b
+lijit.com, 402977, RESELLER, fafdf38b16bf6b2b
+lijit.com, 402977-eb, RESELLER, fafdf38b16bf6b2b
+amxrtb.com, 105199476, RESELLER
+appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 191503, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158355, RESELLER, 5d62403b186f2ace
+152media.info, 152m69, RESELLER
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+adtelligent.com, 307437, RESELLER
+appnexus.com, 13701, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9565, RESELLER, f5ab79cb980f11d1
+criteo.com, b-060555, RESELLER, 9fac4a4a87c2a44f
+openx.com, 541177116, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 161562, RESELLER, 5d62403b186f2ace
+33across.com, 0010b00002t3jniaaf, RESELLER, bbea06d9c4d2853c
+spotim.market, 4446666, RESELLER, 077e5f709d15bdbb
+indexexchange.com, 189529, RESELLER, 50b1c356f2c5c8fc
+rubiconproject.com, 17184, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156813, RESELLER, 5d62403b186f2ace
+onetag.com, 75b1c310c3f34cb, RESELLER
+onetag.com, 75b1c310c3f34cb-ob, RESELLER
+appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+adagio.io, 1237, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+vidoomy.com, 3425467, RESELLER
+yahoo.com, 56860, RESELLER, e1a5b5b6e3255540
+appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
+connectad.io, 284, RESELLER, 85ac85a30c93b3e5
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+betweendigital.com, 44550, RESELLER
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+emxdgt.com, 2047, RESELLER, 1e1d41537f7cad7f
+sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
+nobid.io, 22743125224, RESELLER
+yahoo.com, 59885, RESELLER, e1a5b5b6e3255540
+xandr.com, 11429, RESELLER, f5ab79cb980f11d1
+xandr.com, 12701, RESELLER, f5ab79cb980f11d1
+headerbiddr.com, 787326596, RESELLER
+appnexus.com, 9529, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19292, RESELLER, 0bfd66d529a55807
+waytogrow.eu, 7446611, RESELLER
+appnexus.com, 7837, RESELLER, f5ab79cb980f11d1
+openx.com, 539646619, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 1175, RESELLER
+pubmatic.com, 156701, RESELLER, 5d62403b186f2ace
+criteo.com, b-062476, RESELLER, 9fac4a4a87c2a44f
+indexexchange.com, 188673, RESELLER, 50b1c356f2c5c8fc
+rubiconproject.com, 17862, RESELLER, 0bfd66d529a55807
+adwmg.com, 100330, RESELLER, c9688a22012618e7
+criteo.com, b-061130, RESELLER, 9fac4a4a87c2a44f
+rubiconproject.com, 19652, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156736, RESELLER, 5d62403b186f2ace
+appnexus.com, 8950, RESELLER, f5ab79cb980f11d1
+# END - ads.txt streamlyn - Dinara - 22082022

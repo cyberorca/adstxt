@@ -1,0 +1,16 @@
+# START - ads.txt ampliffy - mutia - 01082022
+ampliffy.com, amp00199, DIRECT
+ampliffy.com, amp00200, DIRECT
+publiffy.com, pub00199, DIRECT
+publiffy.com, pub00200, DIRECT
+videoffy.com, vid00199, DIRECT
+videoffy.com, vid00200, DIRECT
+google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
+google.com, pub-2676898002317977, RESELLER, f08c47fec0942fa0
+google.com, pub-7279729872265667, RESELLER, f08c47fec0942fa0
+indexexchange.com, 186318, RESELLER, 50b1c356f2c5c8fc
+openx.com, 539624483, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157866, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1575167821, RESELLER, a670c89d4a324e47
+rubiconproject.com, 18304, RESELLER, 0bfd66d529a55807
+# END - ads.txt ampliffy - mutia - 01082022

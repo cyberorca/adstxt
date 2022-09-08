@@ -1,0 +1,23 @@
+#AB        
+adbite.com, 22605205346, RESELLER        
+google.com, pub-4180229009269635, RESELLER, f08c47fec0942fa0
+adpone.com, bade9e946c02a5977e54, RESELLER
+vidoomy.com, 61912, RESELLER        
+google.com, pub-2831120411392012, RESELLER, f08c47fec0942fa0
+yieldmo.com, 2731991718797714293, RESELLER
+conversantmedia.com, 100112, RESELLER, 03113cd04947736d
+aol.com, 55011, RESELLER, e1a5b5b6e3255540        
+indexexchange.com, 193069, RESELLER        
+loopme.com, 11058, RESELLER, 6c8d5f95897a5a3b        
+google.com, pub-7995104076770938, DIRECT, f08c47fec0942fa0        
+indexexchange.com, 187924, RESELLER        
+indexexchange.com, 189458, RESELLER        
+openx.com, 540322758, RESELLER, 6a698e2ec38604c6        
+pubmatic.com, 157102, RESELLER, 5d62403b186f2ace        
+pubmatic.com, 157163, RESELLER, 5d62403b186f2ace        
+pubmatic.com, 157752, RESELLER, 5d62403b186f2ace        
+rubiconproject.com, 13894, RESELLER, 0bfd66d529a55807        
+rubiconproject.com, 18008, RESELLER, 0bfd66d529a55807
+aol.com, 56860, RESELLER, e1a5b5b6e3255540        
+rhythmone.com, 274200170, RESELLER, a670c89d4a324e47        
+video.unrulymedia.com, 274200170, RESELLER, a670c89d4a324e47

@@ -1,0 +1,11 @@
+#Start Nexads Merdeka.com
+nexads.io,62001,DIRECT
+Triplelift.com,12307,direct, 6c33edb13117fd86
+rubiconproject.com, 24790, RESELLER, 0bfd66d529a55807
+#End Nexads Merdeka.com
+
+#Start Nexads Bola.com
+nexads.io,62002,DIRECT
+Triplelift.com,12308,direct, 6c33edb13117fd86
+rubiconproject.com, 24790, RESELLER, 0bfd66d529a55807
+#End Nexads Bola.com

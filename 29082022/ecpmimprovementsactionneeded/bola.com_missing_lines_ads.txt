@@ -1,0 +1,14 @@
+# START - ads.txt MGID - Dinara - 29082022
+mgid.com, 408156, DIRECT, d4c29acad76ce94f
+indexexchange.com, 194161, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161673, RESELLER, 5d62403b186f2ace
+inmobi.com, c2391dc8a51e420480044992fe6dc4d7, RESELLER, 83e75a7ae333ca9d
+appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
+adtelligent.com, 620678, DIRECT
+33across.com, 0010b00002t3jniaaf, DIRECT, bbea06d9c4d2853c
+e-planning.net, 835fbafe26d231b1, DIRECT, c1ba615865ed87b2
+loopme.com, 11378, RESELLER, 6c8d5f95897a5a3b
+yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
+axonix.com, 57869, RESELLER
+triplelift.com, 11656, RESELLER, 6c33edb13117fd86
+# END - ads.txt MGID - Dinara - 29082022

@@ -1,0 +1,37 @@
+#Imp
+pubmatic.com, 160987, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160998, RESELLER, 5d62403b186f2ace
+yahoo.com, 59133, RESELLER, e1a5b5b6e3255540
+yahoo.com, 59356, RESELLER, e1a5b5b6e3255540
+EMXDGT.com, 1966, RESELLER, 1e1d41537f7cad7f
+nsightvideo.com, 82136893, RESELLER, fd25240165056a01        
+appnexus.com, 1537726, RESELLER, f5ab79cb980f11d1
+#AB
+google.com, pub-4180229009269635, RESELLER, f08c47fec0942fa0        
+adpone.com, bade9e946c02a5977e54, RESELLER
+vidoomy.com, 61912, RESELLER
+google.com, pub-2831120411392012, RESELLER, f08c47fec0942fa0
+yieldmo.com, 2731991718797714293, RESELLER
+adform.com, 2742, RESELLER
+appnexus.com, 12475, RESELLER, f5ab79cb980f11d1
+emxdgt.com, 1495, RESELLER, 1e1d41537f7cad7f
+improvedigital.com, 1738, RESELLER
+conversantmedia.com, 100112, DIRECT, 03113cd04947736d
+aol.com, 55011, RESELLER, e1a5b5b6e3255540
+indexexchange.com, 192311, RESELLER
+indexexchange.com, 193069, RESELLER
+loopme.com, 11058, RESELLER, 6c8d5f95897a5a3b
+google.com, pub-7995104076770938, RESELLER, f08c47fec0942fa0
+indexexchange.com, 187924, DIRECT
+indexexchange.com, 189458, DIRECT
+adbite.com, 22605205346, DIRECT        
+openx.com, 540322758, RESELLER, 6a698e2ec38604c6        
+pubmatic.com, 157102, RESELLER, 5d62403b186f2ace        
+pubmatic.com, 157163, RESELLER, 5d62403b186f2ace        
+pubmatic.com, 157752, RESELLER, 5d62403b186f2ace        
+rubiconproject.com, 13894, RESELLER, 0bfd66d529a55807        
+rubiconproject.com, 18008, RESELLER, 0bfd66d529a55807        
+yahoo.com, 56860, RESELLER, e1a5b5b6e3255540        
+aol.com, 56860, RESELLER, e1a5b5b6e3255540        
+rhythmone.com, 274200170, RESELLER, a670c89d4a324e47        
+video.unrulymedia.com, 274200170, RESELLER, a670c89d4a324e47
